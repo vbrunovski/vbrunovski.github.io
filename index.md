@@ -4,7 +4,7 @@ layout: default
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="assets/images/profile.jpg" alt="Vitali Brunovski" style="width: 50%; height: auto; border-radius: 0;">
+    <img src="assets/images/profile.jpg" alt="Vitali Brunovski" style="width: 60%; height: auto; border-radius: 0;">
   </div>
 
   <div style="flex: 2; min-width: 300px;">
