@@ -3,8 +3,9 @@ layout: default
 title: Vitali Brunovski | API Security & QA Mentorship
 ---
 
-# Vitali Brunovski
 ## Cybersecurity Specialist & IT Mentor
+
+**[Главная](/) | [GitHub](https://github.com/vbrunovski) | [Telegram](https://t.me/ТВОЙ_НИК)**
 
 Я помогаю IT-специалистам освоить API Security и автоматизацию тестирования через **индивидуальный асинхронный формат**. 
 
